@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+[![MasterHead](https://www.bestagencies.com/wp-content/uploads/2014/01/desk.gif)
 <h1 align="center">Hi 👋, I'm Mohammed Abu Ibaid</h1>
 <h3 align="center">A Software Engineer from Palestine</h3>
 
