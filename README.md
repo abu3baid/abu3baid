@@ -12,13 +12,13 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 👨‍💻 All of my projects are available at [abu3beid.com](abu3beid.com)
+- 👨‍💻 All of my projects are available at [#](#)
 
 - 💬 Ask me about **.NET, Laravel, Wordpress**
 
 - 📫 How to reach me **mohammed.a.abuibaid@gmail.com**
 
-- 📄 Know about my experiences [abu3beid.com/resume](abu3beid.com/resume)
+- 📄 Know about my experiences [#](#)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
