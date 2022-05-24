@@ -4,17 +4,16 @@
 <h1 align="center">Hi 👋, I'm Mohammed Abu Ibaid</h1>
 <h3 align="center">A Software Engineer from Palestine</h3>
 
-<p align="left"> <a href="https://twitter.com/m76eef" target="blank"><img src="https://img.shields.io/twitter/follow/m76eef?logo=twitter&style=for-the-badge" alt="m76eef" /></a> </p>
 
 <a href="#" align="right">
   <img align="right" height="190" src="https://i.pinimg.com/originals/1c/54/f7/1c54f7b06d7723c21afc5035bf88a5ef.png">
 </a>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Angular and Laravel**
 
 - 👨‍💻 All of my projects are available at [#](#)
 
-- 💬 Ask me about **.NET, Laravel, Wordpress**
+- 💬 Ask me about **.NET, Laravel and Wordpress**
 
 - 📫 How to reach me **mohammed.a.abuibaid@gmail.com**
 
