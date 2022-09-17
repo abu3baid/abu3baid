@@ -1,8 +1,8 @@
 ```c#
 public class Test{
-public static void main (string[] args]{
-Console.WriteLine("Test");
-}
+  public static void main (string[] args]{
+    Console.WriteLine("Test");
+  }
 }
 ```
 
