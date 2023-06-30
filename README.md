@@ -29,7 +29,7 @@ I am a software engineer specializing in backend .NET core web API development w
 [![](https://visitcount.itsvg.in/api?id=abu3baid&icon=2&color=1)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)]([https://www.paypal.com/paypalme/abu3beid]) 
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/abu3beid)
 
   <!-- Proudly created with GPRM ( httpshttps://www.paypal.com/paypalme/abu3beid://gprm.itsvg.in ) -->
   
